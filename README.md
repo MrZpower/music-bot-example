@@ -7,6 +7,8 @@
   - Staff #2 -> [rnggadosen._](https://github.com/RanggaGultom)
   - Ex-Staff -> [Mednoob](https://github.com/Mednoob)
   
+[![Run on Repl.it](https://repl.it/badge/github/Client-Developer-ID/music-bot-example)](https://repl.it/github/Client-Developer-ID/music-bot-example)
+
   Contributors:
   - @everyone for supporting Client Developer
   - [@KagChi](https://github.com/KagChi/)
